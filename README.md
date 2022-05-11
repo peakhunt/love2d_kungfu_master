@@ -1,5 +1,6 @@
 # love2d_kungfu_master
 retro kungfu master implementation with love2d
+![capture1](docs/capture1.png)
 
 ## regarding licenses
 All the graphics images are copied from internet. I didn't create them at all.  
