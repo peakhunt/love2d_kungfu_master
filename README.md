@@ -1,7 +1,7 @@
 # love2d_kungfu_master
 retro kungfu master implementation with love2d  
 please be patient! this is still a work in progress and I got no intention to hurry.  
-
+  
 ![capture1](docs/capture1.png)
 
 ## regarding licenses
